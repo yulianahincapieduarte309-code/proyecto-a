@@ -35,4 +35,15 @@ Ejemplo Lista de pendientes para hoy
 Para incluir un enlace basta con digitar el nombre del sitio:
 https://www.javerianacali.edu.co
 
+Para incluir texto sangrado:
+
+
+> "Hacer preguntas es señal de que se piensa"
+> - Rabindranath Tagore
+
+Como subir un proyecto a git
+-[x] git init
+-[x] git add .
+-[x] git commit -m "texto documentacion"
+-[x] git push origin master
 
