@@ -32,5 +32,7 @@ Ejemplo Lista de pendientes para hoy
 3. Tomarse la foto
 4. Asistir a la cita
 
+Para incluir un enlace basta con digitar el nombre del sitio:
+https://www.javerianacali.edu.co
 
 
