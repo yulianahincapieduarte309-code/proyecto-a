@@ -42,8 +42,8 @@ Para incluir texto sangrado:
 > - Rabindranath Tagore
 
 Como subir un proyecto a git
--[x] git init
--[x] git add .
--[x] git commit -m "texto documentacion"
--[x] git push origin master
+- [x] git init
+- [x] git add .
+- [x] git commit -m "texto documentacion"
+- [x] git push origin master
 
