@@ -75,6 +75,6 @@ F | V | F
 F | F | F
 
 Ejemplo de emojis:
-:+1: :sparkle: :candle: :8ball: :cat: :octocat:
+:+1:  :sparkle:  :candle:  :8ball:  :cat:  :octocat:
 
 
