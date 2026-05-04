@@ -65,3 +65,15 @@ return 0;
 ```
 
 
+# tabla de verdad del AND
+
+A | B | A and B
+--|---|---------
+V | V | V
+V | F | F
+F | V | F
+F | F | F
+
+
+
+
