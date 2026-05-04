@@ -12,3 +12,8 @@ Texto normal
 Texto normal
 ##### Encabezado nivel 5
 Texto normal
+
+Esta es una muestra de *texto en cursiva*
+Esta es una muestra de **Texto en Negrilla**
+*Tambien **las podemos combinar** de este modo*
+**AL revez *tambien funciona* de este modo**
